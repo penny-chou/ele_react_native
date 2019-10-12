@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/penny/.gradle/caches/transforms-2/files-2.1/cfa6fa70ddff94f6baaa02d3ba67aba0/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/penny/.gradle/caches/transforms-2/files-2.1/c2ecc98bdd6316a647afb8e8682435aa/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/penny/.gradle/caches/transforms-2/files-2.1/535fdc877671c5e2a6439662a4609149/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/2f28c3af3174cfaba35e9488a1df94ae/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/9637bed3891162ff299ce0be78d01f57/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/33099f1a5631642812780589e2aeb3a6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/904149cd8f2e10b04f4c4063f7a6d97f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/259ca18b261b0aa7e5fef7f3e900c77e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/3f118470612ffeffc31eea373a3fc15a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/32fd49e45d9e5edc41d295b506db92ac/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/c8454238af83f7965af75c90a55bb538/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/3dd1a4c250a99e40ead418edc66ea9de/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/a23883262af85cbf17694a9c8e98e554/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/49fb5ab756df9595b0724f419b30644b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/f8dc23611de9bf596febf7abd0688bc2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/penny/.gradle/caches/transforms-2/files-2.1/49e7983e6960bb5e95484e38be07bcca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/a3e978c10b605e97ef38347ad720e94a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/2e8971549e2aaa4e42a748011da409c3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/a5bd817891d59491e51a85e2a593e40d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/21cc7bd449d7614dd75d37c1d3998e36/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/cbab4c9d1f82e13689aba8768c05adbf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/d7e0c8b2301e258eb416875900f1f71e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/24a3a2c22ce46669df4f396335bf8876/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/d610dcf4b41b203c4676b209028777d9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/penny/.gradle/caches/transforms-2/files-2.1/d43d09d26addb49e48659a988cac1a25/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/67a9dd1ae27d22cb2c8976591efef718/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/c5da7670c31830e67d529168c826bed9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/603b031709ee0dae7fdb54886b5e263e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/25cc56e466ae5c9bbb9d506054795d7f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/1f0d8b8657f1226031fb5ca959ad618e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/73a711ed7039294915aea872d1211471/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/15f683bfdbbfe73671949e6c5ad92eef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/a4253f5fb98cadeee64b8ae126d6a9e2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/bbc4d2754d69e6c84e7bf60d09178186/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/c5f465a66f951eb99657ecad536d87c4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/69db12bb8c4f0d306f9eac14ae3481fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/8c514a8160d932173ff878c8891d7b36/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/penny/.gradle/caches/transforms-2/files-2.1/cfa6fa70ddff94f6baaa02d3ba67aba0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/penny/.gradle/caches/transforms-2/files-2.1/cfa6fa70ddff94f6baaa02d3ba67aba0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/c8454238af83f7965af75c90a55bb538/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/c8454238af83f7965af75c90a55bb538/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/penny/.gradle/caches/transforms-2/files-2.1/d43d09d26addb49e48659a988cac1a25/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/penny/.gradle/caches/transforms-2/files-2.1/d43d09d26addb49e48659a988cac1a25/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/67a9dd1ae27d22cb2c8976591efef718/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/67a9dd1ae27d22cb2c8976591efef718/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/penny/.gradle/caches/transforms-2/files-2.1/d43d09d26addb49e48659a988cac1a25/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.awesomeproject.MainActivity
+ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/penny/.gradle/caches/transforms-2/files-2.1/cfa6fa70ddff94f6baaa02d3ba67aba0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/penny/.gradle/caches/transforms-2/files-2.1/cfa6fa70ddff94f6baaa02d3ba67aba0/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/penny/.gradle/caches/transforms-2/files-2.1/c2ecc98bdd6316a647afb8e8682435aa/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/penny/.gradle/caches/transforms-2/files-2.1/c2ecc98bdd6316a647afb8e8682435aa/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/penny/.gradle/caches/transforms-2/files-2.1/535fdc877671c5e2a6439662a4609149/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/penny/.gradle/caches/transforms-2/files-2.1/535fdc877671c5e2a6439662a4609149/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/2f28c3af3174cfaba35e9488a1df94ae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/2f28c3af3174cfaba35e9488a1df94ae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/9637bed3891162ff299ce0be78d01f57/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/9637bed3891162ff299ce0be78d01f57/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/33099f1a5631642812780589e2aeb3a6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/33099f1a5631642812780589e2aeb3a6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/904149cd8f2e10b04f4c4063f7a6d97f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/904149cd8f2e10b04f4c4063f7a6d97f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/259ca18b261b0aa7e5fef7f3e900c77e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/259ca18b261b0aa7e5fef7f3e900c77e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/3f118470612ffeffc31eea373a3fc15a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/3f118470612ffeffc31eea373a3fc15a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/32fd49e45d9e5edc41d295b506db92ac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/32fd49e45d9e5edc41d295b506db92ac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/c8454238af83f7965af75c90a55bb538/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/c8454238af83f7965af75c90a55bb538/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/3dd1a4c250a99e40ead418edc66ea9de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/3dd1a4c250a99e40ead418edc66ea9de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/a23883262af85cbf17694a9c8e98e554/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/a23883262af85cbf17694a9c8e98e554/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/49fb5ab756df9595b0724f419b30644b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/49fb5ab756df9595b0724f419b30644b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/f8dc23611de9bf596febf7abd0688bc2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/f8dc23611de9bf596febf7abd0688bc2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/penny/.gradle/caches/transforms-2/files-2.1/49e7983e6960bb5e95484e38be07bcca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/penny/.gradle/caches/transforms-2/files-2.1/49e7983e6960bb5e95484e38be07bcca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/a3e978c10b605e97ef38347ad720e94a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/a3e978c10b605e97ef38347ad720e94a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/2e8971549e2aaa4e42a748011da409c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/2e8971549e2aaa4e42a748011da409c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/a5bd817891d59491e51a85e2a593e40d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/a5bd817891d59491e51a85e2a593e40d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/21cc7bd449d7614dd75d37c1d3998e36/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/21cc7bd449d7614dd75d37c1d3998e36/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/cbab4c9d1f82e13689aba8768c05adbf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/cbab4c9d1f82e13689aba8768c05adbf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/d7e0c8b2301e258eb416875900f1f71e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/d7e0c8b2301e258eb416875900f1f71e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/24a3a2c22ce46669df4f396335bf8876/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/24a3a2c22ce46669df4f396335bf8876/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/d610dcf4b41b203c4676b209028777d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/d610dcf4b41b203c4676b209028777d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/penny/.gradle/caches/transforms-2/files-2.1/d43d09d26addb49e48659a988cac1a25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/penny/.gradle/caches/transforms-2/files-2.1/d43d09d26addb49e48659a988cac1a25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/67a9dd1ae27d22cb2c8976591efef718/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/67a9dd1ae27d22cb2c8976591efef718/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/c5da7670c31830e67d529168c826bed9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/c5da7670c31830e67d529168c826bed9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/603b031709ee0dae7fdb54886b5e263e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/603b031709ee0dae7fdb54886b5e263e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/25cc56e466ae5c9bbb9d506054795d7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/25cc56e466ae5c9bbb9d506054795d7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/1f0d8b8657f1226031fb5ca959ad618e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/1f0d8b8657f1226031fb5ca959ad618e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/73a711ed7039294915aea872d1211471/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/73a711ed7039294915aea872d1211471/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/15f683bfdbbfe73671949e6c5ad92eef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/15f683bfdbbfe73671949e6c5ad92eef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/a4253f5fb98cadeee64b8ae126d6a9e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/a4253f5fb98cadeee64b8ae126d6a9e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/bbc4d2754d69e6c84e7bf60d09178186/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/bbc4d2754d69e6c84e7bf60d09178186/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/c5f465a66f951eb99657ecad536d87c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/c5f465a66f951eb99657ecad536d87c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/69db12bb8c4f0d306f9eac14ae3481fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/69db12bb8c4f0d306f9eac14ae3481fc/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/8c514a8160d932173ff878c8891d7b36/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/penny/.gradle/caches/transforms-2/files-2.1/8c514a8160d932173ff878c8891d7b36/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/penny/Desktop/workSpace/myprojects/React Native/AwesomeProject/android/app/src/debug/AndroidManifest.xml:5:22-75
